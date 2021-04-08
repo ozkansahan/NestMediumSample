@@ -1,0 +1,10 @@
+﻿namespace NestMediumSample.Models
+{
+    public class Query
+    {
+        public string Name { get; set; }
+        public string Class { get; set; }
+        public string Address { get; set; }
+        public int Age { get; set; }
+    }
+}
